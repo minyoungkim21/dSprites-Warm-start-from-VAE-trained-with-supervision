@@ -23,7 +23,7 @@
 ### 2) Now, standard (unsupervised) VAE learning with initial model from 1)
 
 - Prior p(z) fixed as follows:
-
+![p_den_2](https://user-images.githubusercontent.com/44901665/57574468-8976e200-7431-11e9-886c-71b9f98df049.jpg)
 
 - Sigma of q(z|x) also fixed to ((1e-4)/3). Ie, only learn the mean function.
 
