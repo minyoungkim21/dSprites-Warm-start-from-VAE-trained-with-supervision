@@ -80,8 +80,6 @@
 
 #### Loss functions and evaluation metrics
 
-- Note: iter=2 means before learning starts
-
 - recon loss
 
 ![recon_loss](https://user-images.githubusercontent.com/44901665/57574607-191d9000-7434-11e9-8da0-d35f9373b18c.png)
