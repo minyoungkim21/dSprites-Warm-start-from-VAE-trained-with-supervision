@@ -22,25 +22,26 @@
 
 ### 2) Now, standard (unsupervised) VAE learning with initial model from 1)
 
-#### Prior p(z) fixed as follows: (z1, z2, z3, z4, z5)
+- Prior p(z) fixed as follows: (z1, z2, z3, z4, z5)
 ![p_den_2](https://user-images.githubusercontent.com/44901665/57574468-8976e200-7431-11e9-886c-71b9f98df049.jpg)
 
-#### Sigma of q(z|x) also fixed to ((1e-4)/3). Ie, only learn the mean function.
+- sigma of q(z|x) also fixed to ((1e-4)/3). Ie, only learn the mean function.
 
 
-#### Before learning starts
+#### q(z|x) 
 
-- q(z|x)
+- Before learning starts
 ![qx_den_2](https://user-images.githubusercontent.com/44901665/57574498-f8ecd180-7431-11e9-8ba3-ea06d063a113.jpg)
 
-- q(z)
-![q_den_2](https://user-images.githubusercontent.com/44901665/57574489-d490f500-7431-11e9-8daa-9d87a301cdac.jpg)
-
-#### At iter#10
-
--q(z|x)
+- At iter# 10
 ![qx_den_10](https://user-images.githubusercontent.com/44901665/57574518-5f71ef80-7432-11e9-9d52-7f610c423bab.jpg)
 
--q(z)
+
+#### q(z)
+
+- Before learning starts
+![q_den_2](https://user-images.githubusercontent.com/44901665/57574489-d490f500-7431-11e9-8daa-9d87a301cdac.jpg)
+
+- At iter# 10
 ![q_den_10](https://user-images.githubusercontent.com/44901665/57574520-639e0d00-7432-11e9-8cdd-164f2521b152.jpg)
 
