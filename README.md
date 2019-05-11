@@ -17,12 +17,15 @@
 
 #### Learning p(x|z) and q(z|x) with observed (x,z)
 - Decoder: Maximize \sum_{(x,z)} \log p(x|z) 
-- Encoder: Maximize \sum_{(x,z)} \log q(z|x) with sigma of q(z|x) fixed to small value (eg, (1e-4)/3)
+- Encoder: Maximize \sum_{(x,z)} \log q(z|x) with sigma of q(z|x) fixed to small value (eg, (1e-4)/3). Ie, only learn the mean function
+
+
+### 2) Now, standard (unsupervised) VAE learning with initial model from 1)
+
+- Prior p(z) fixed as follows:
+
+
+- Sigma of q(z|x) also fixed to ((1e-4)/3). Ie, only learn the mean function.
 
 
 
-### 2) Latent traversal
-
-4 examples
-
-  [ x | z1 | z2 | z3 | z4 | z5 ]
