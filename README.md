@@ -22,11 +22,30 @@
 
 ### 2) Now, standard (unsupervised) VAE learning with initial model from 1)
 
-- Prior p(z) fixed as follows: (z1, z2, z3, z4, z5)
+- We fixed prior p(z) as follows: (z1, z2, z3, z4, z5)
 
 ![p_den_2](https://user-images.githubusercontent.com/44901665/57574468-8976e200-7431-11e9-886c-71b9f98df049.jpg)
 
 - sigma of q(z|x) also fixed to ((1e-4)/3). Ie, only learn the mean function.
+
+
+#### q(z)
+
+- Before learning starts (ie, the supervised-trained VAE)
+
+![q_den_2](https://user-images.githubusercontent.com/44901665/57574489-d490f500-7431-11e9-8daa-9d87a301cdac.jpg)
+
+- At iter# 10
+
+![q_den_10](https://user-images.githubusercontent.com/44901665/57574520-639e0d00-7432-11e9-8cdd-164f2521b152.jpg)
+
+- At iter# 20
+
+![q_den_20](https://user-images.githubusercontent.com/44901665/57574549-21c19680-7433-11e9-95ec-84a75e0f1b89.jpg)
+
+- At iter# 35
+
+![q_den_35](https://user-images.githubusercontent.com/44901665/57574552-271ee100-7433-11e9-9f04-216c0abe83a2.jpg)
 
 
 #### q(z|x) 
@@ -46,24 +65,6 @@
 - At iter# 35
 
 ![qx_den_35](https://user-images.githubusercontent.com/44901665/57574562-3b62de00-7433-11e9-9fd0-cb06c5ba7ed0.jpg)
-
-#### q(z)
-
-- Before learning starts
-
-![q_den_2](https://user-images.githubusercontent.com/44901665/57574489-d490f500-7431-11e9-8daa-9d87a301cdac.jpg)
-
-- At iter# 10
-
-![q_den_10](https://user-images.githubusercontent.com/44901665/57574520-639e0d00-7432-11e9-8cdd-164f2521b152.jpg)
-
-- At iter# 20
-
-![q_den_20](https://user-images.githubusercontent.com/44901665/57574549-21c19680-7433-11e9-95ec-84a75e0f1b89.jpg)
-
-- At iter# 35
-
-![q_den_35](https://user-images.githubusercontent.com/44901665/57574552-271ee100-7433-11e9-9f04-216c0abe83a2.jpg)
 
 
 #### Latent traversal
