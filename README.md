@@ -15,7 +15,9 @@
 - z4 (x-pos, card=32) = {-0.9, -0.87, ..., 0.87, 0.9}
 - z5 (y-pos, card=32) = {-0.9, -0.87, ..., 0.87, 0.9}
 
-sigma of q(z|x) is fixed to (1e-4)/3
+- Learning p(x|z) and q(z|x) with observed (x,z)
+- Decoder: Maximize \sum_{(x,z)} \log p(x|z) 
+- Encoder: Maximize \sum_{(x,z)} \log q(z|x) with sigma of q(z|x) fixed to small value (eg, (1e-4)/3)
 
 
 
