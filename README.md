@@ -1,6 +1,6 @@
 # dSprites: Warm-start from the VAE model trained with full supervision
 
-### 1) Setup (brief)
+## 1) Setup (brief)
 - Train VAE with full factor labels
 - sigma of q(z|x) is fixed to (1e-4)/3
 
