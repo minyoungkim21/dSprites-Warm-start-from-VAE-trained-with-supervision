@@ -1,9 +1,7 @@
-# dSprites-Warm-start-from-VAE-trained-with-supervision
-
-## (Supervised) Regression between x (image) and z (5-dim true factors, each [-1,+1]-scaled/normalized)
-
+## dSprites: Warm-start from the VAE model trained with full supervision
 
 ### 1) Setup (brief)
+- 
 - The same encoder model as FactorVAE for x -> z regression
 - The same decoder model as FactorVAE for z -> x regression
 
