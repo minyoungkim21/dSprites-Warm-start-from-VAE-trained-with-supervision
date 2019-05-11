@@ -98,5 +98,5 @@
 
 - The unsupervised VAE learning doesn't change anything (loss, q(z|x), q(z)) significantly.
 - So, the VAE model trained with full labels seems to be a local minima with respect to the VAE loss.
-- A peculiar thing is the reconstruction loss is quite large (compared to VAE learning with a random initial model, which converges to recon loss <50).
+- A peculiar thing is the reconstruction loss is quite large (compared to VAE learning with a random initial model, which converges to recon loss <50). Is it because we fixed the sigma of q(z|x) (as small value (1e-4)/3)?
 
