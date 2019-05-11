@@ -1,4 +1,4 @@
-## dSprites: Warm-start from the VAE model trained with full supervision
+# dSprites: Warm-start from the VAE model trained with full supervision
 
 ### 1) Setup (brief)
 - 
