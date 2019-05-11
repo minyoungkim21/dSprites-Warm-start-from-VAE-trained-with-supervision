@@ -55,3 +55,14 @@
 
 - At iter# 35
 ![q_den_35](https://user-images.githubusercontent.com/44901665/57574552-271ee100-7433-11e9-9f04-216c0abe83a2.jpg)
+
+
+#### Latent traversal
+
+- Before learning starts
+![fixed0](https://user-images.githubusercontent.com/44901665/57574579-7fee7980-7433-11e9-909e-c2638d020108.gif)
+
+- At iter# 35
+![fixed0](https://user-images.githubusercontent.com/44901665/57574583-8aa90e80-7433-11e9-9d95-8a7cd7713134.gif)
+
+
