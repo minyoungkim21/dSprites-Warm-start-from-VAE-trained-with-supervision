@@ -68,3 +68,23 @@
 ![fixed0](https://user-images.githubusercontent.com/44901665/57574583-8aa90e80-7433-11e9-9d95-8a7cd7713134.gif)
 
 
+#### Loss functions and evaluation metrics
+
+- Note: iter=2 means before learning starts
+
+- recon loss
+![recon_loss](https://user-images.githubusercontent.com/44901665/57574607-191d9000-7434-11e9-8da0-d35f9373b18c.png)
+
+- kl loss
+![kl_loss](https://user-images.githubusercontent.com/44901665/57574606-191d9000-7434-11e9-95dc-16973537ce45.png)
+
+- metrics
+![metrics](https://user-images.githubusercontent.com/44901665/57574604-16229f80-7434-11e9-988c-82033dfcb550.png)
+
+
+### 3) Conclusion
+
+- The unsupervised VAE learning doesn't change anything (loss, q(z|x), q(z)) significantly.
+- So, the VAE model trained with full labels seems to be a local minima with respect to the VAE loss.
+- A peculiar thing is the reconstruction loss is quite large (compared to VAE learning with a random initial model, which converges to recon loss <50).
+
