@@ -36,6 +36,11 @@
 - At iter# 10
 ![qx_den_10](https://user-images.githubusercontent.com/44901665/57574518-5f71ef80-7432-11e9-9d52-7f610c423bab.jpg)
 
+- At iter# 20
+![qx_den_20](https://user-images.githubusercontent.com/44901665/57574560-33a33980-7433-11e9-8b3e-9c21f160a570.jpg)
+
+- At iter# 35
+![qx_den_35](https://user-images.githubusercontent.com/44901665/57574562-3b62de00-7433-11e9-9fd0-cb06c5ba7ed0.jpg)
 
 #### q(z)
 
@@ -45,3 +50,8 @@
 - At iter# 10
 ![q_den_10](https://user-images.githubusercontent.com/44901665/57574520-639e0d00-7432-11e9-8cdd-164f2521b152.jpg)
 
+- At iter# 20
+![q_den_20](https://user-images.githubusercontent.com/44901665/57574549-21c19680-7433-11e9-95ec-84a75e0f1b89.jpg)
+
+- At iter# 35
+![q_den_35](https://user-images.githubusercontent.com/44901665/57574552-271ee100-7433-11e9-9f04-216c0abe83a2.jpg)
