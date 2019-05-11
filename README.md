@@ -2,7 +2,7 @@
 
 ### 0) Overall setup (brief)
 
-- Train VAE with full factor labels
+- We first train VAE with full factor labels
 - Then, do standard (unsupervised) VAE learning (ie, ELBO) starting from the sup-trained VAE model
 
 
