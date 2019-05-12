@@ -85,6 +85,18 @@
 
 ![fixed0](https://user-images.githubusercontent.com/44901665/57574583-8aa90e80-7433-11e9-9d95-8a7cd7713134.gif)
 
+- At iter# 100
+
+![fixed0](https://user-images.githubusercontent.com/44901665/57580472-edd18a00-74a1-11e9-82f0-0ef57dbae685.gif)
+
+- At iter# 200
+
+![fixed0](https://user-images.githubusercontent.com/44901665/57580480-fc1fa600-74a1-11e9-8d4b-c1acb84323cf.gif)
+
+- At iter# 300
+
+![fixed0](https://user-images.githubusercontent.com/44901665/57580486-03df4a80-74a2-11e9-9561-e6795011f9f3.gif)
+
 
 #### Loss functions and evaluation metrics
 
