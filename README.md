@@ -58,17 +58,21 @@
 
 ![qx_den_2](https://user-images.githubusercontent.com/44901665/57574498-f8ecd180-7431-11e9-8ba3-ea06d063a113.jpg)
 
-- At iter# 10
-
-![qx_den_10](https://user-images.githubusercontent.com/44901665/57574518-5f71ef80-7432-11e9-9d52-7f610c423bab.jpg)
-
-- At iter# 20
-
-![qx_den_20](https://user-images.githubusercontent.com/44901665/57574560-33a33980-7433-11e9-8b3e-9c21f160a570.jpg)
-
 - At iter# 35
 
 ![qx_den_35](https://user-images.githubusercontent.com/44901665/57574562-3b62de00-7433-11e9-9fd0-cb06c5ba7ed0.jpg)
+
+- At iter# 100
+
+![qx_den_100](https://user-images.githubusercontent.com/44901665/57580448-9f23f000-74a1-11e9-96a8-3ef531f9f4b2.jpg)
+
+- At iter# 200
+
+![qx_den_200](https://user-images.githubusercontent.com/44901665/57580449-9f23f000-74a1-11e9-926c-9bd5b3eec475.jpg)
+
+- At iter# 300
+
+![qx_den_300](https://user-images.githubusercontent.com/44901665/57580450-9fbc8680-74a1-11e9-9e3e-cfba5e7c34df.jpg)
 
 
 #### Latent traversal
