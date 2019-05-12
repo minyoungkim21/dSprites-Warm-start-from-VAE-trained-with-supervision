@@ -82,15 +82,17 @@
 
 - recon loss
 
-![recon_loss](https://user-images.githubusercontent.com/44901665/57574607-191d9000-7434-11e9-8da0-d35f9373b18c.png)
+![recon_loss_new](https://user-images.githubusercontent.com/44901665/57580405-09886080-74a1-11e9-8b7d-d677fd4236f0.png)
 
 - kl loss
 
-![kl_loss](https://user-images.githubusercontent.com/44901665/57574606-191d9000-7434-11e9-95dc-16973537ce45.png)
+![kl_loss_new](https://user-images.githubusercontent.com/44901665/57580403-08efca00-74a1-11e9-9e02-88f73f1778ab.png)
 
 - metrics
 
-![metrics](https://user-images.githubusercontent.com/44901665/57574604-16229f80-7434-11e9-988c-82033dfcb550.png)
+![metrics_new](https://user-images.githubusercontent.com/44901665/57580404-08efca00-74a1-11e9-9597-3062a32e3c48.png)
+
+
 
 
 ### 3) Conclusion
